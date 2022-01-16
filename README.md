@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README #
 
 This repository is an example of some of the JavaScript projects I am building with instruction from Jonas Schmedtman of https://codingheroes.io/. I am enjoying the courses very much and will replace this repository at a later time to include all projects. Thank you for checking out what I am working on. Cheers!
@@ -16,3 +17,7 @@ Player rolls and has the option of holding the value of the die or continuing to
 
 -------
 created in VSCodium
+=======
+# PigGame
+Javascript course study on Dom manipulation
+>>>>>>> 19614522297473e10b943fdd69813e32d6cb7d2c
